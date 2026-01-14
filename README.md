@@ -1,2 +1,3 @@
 # GrandMasterAngel
-กิ่งคนสวย
+github.com
+RITTHIKRAI KIRIKAN 
