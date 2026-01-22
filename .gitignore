@@ -74,3 +74,118 @@ if __name__ == "__main__":
     print(f"หัวข้อ: {args.subject}")
 
     send_matrix_email(args.to, args.subject, args.body)
+ข้อกำหนดและเงื่อนไขการผูกและใช้บัตร YouTrip ผ่านบริการกระเป๋าเงินดิจิทัล
+
+ผู้ใช้บริการ YouTrip (“ผู้ใช้บริการ”) ของ บมจ. ธนาคารกสิกรไทย  (“ธนาคาร”) ตกลงผูกและใช้บัตร YouTrip ผ่านบริการกระเป๋าเงินดิจิทัลของผู้ให้บริการกระเป๋าเงินดิจิทัลภายนอก โดยตกลงผูกพันและปฏิบัติตามข้อกำหนดและเงื่อนไขการผูกและใช้บัตร YouTrip ผ่านบริการกระเป๋าเงินดิจิทัล (“ข้อกำหนดนี้”) ดังต่อไปนี้ และตกลงให้ถือว่าข้อกำหนดนี้เป็นส่วนหนึ่งของข้อกำหนดและเงื่อนไขการใช้บริการ YouTrip ที่ผู้ใช้บริการได้ตกลงไว้กับธนาคารด้วย
+
+1. บริการกระเป๋าเงินดิจิทัลเป็นบริการของผู้ให้บริการ Digital Wallet 
+
+1.1 ผู้ใช้บริการเข้าใจและยอมรับว่า บริการกระเป๋าเงินดิจิทัล (“บริการ Digital Wallet”) เป็นบริการซึ่งดำเนินการโดยผู้ให้บริการกระเป๋าเงินดิจิทัลภายนอก (“ผู้ให้บริการ Digital Wallet”) เพื่ออำนวยความสะดวกแก่ผู้ใช้บริการในการใช้บัตร YouTrip ชำระค่าสินค้า และ/หรือบริการแทนเงินสด โดยทำรายการผ่านบริการ Digital Wallet บนโทรศัพท์เคลื่อนที่ หรืออุปกรณ์อื่นใด ตามที่ผู้ให้บริการ Digital Wallet กำหนด (“Smart Device”) 
+
+1.2 ผู้ใช้บริการรับทราบและตกลงว่า ธนาคารไม่มีส่วนเกี่ยวข้องใดๆ ในการให้บริการ Digital Wallet และร้านค้า (ตามนิยามที่กล่าวด้านล่าง) ในกรณีที่ผู้ใช้บริการมีปัญหาหรือข้อสงสัยเกี่ยวกับบริการ Digital Wallet ผู้ใช้บริการสามารถติดต่อผู้ให้บริการ Digital Wallet และ/หรือร้านค้า (แล้วแต่กรณี) และในกรณีที่ผู้ใช้บริการมีปัญหาหรือข้อสงสัยเกี่ยวกับบัตร YouTrip ผู้ใช้บริการสามารถติดต่อ บริษัท ยู เทคโนโลยี กรุ๊ป (ประเทศไทย) จำกัด ซึ่งเป็นผู้ให้บริการแอปพลิเคชัน YouTrip และผู้ดำเนินการออกบัตร YouTrip ร่วมกับธนาคาร ที่ YouTrip Contact Center ได้โดยตรง
+      ร้านค้า หมายถึง ร้านค้ารับชำระค่าสินค้า/บริการด้วยบัตร YouTrip ผ่านบริการ Digital Wallet ตามที่ผู้ให้บริการ Digital Wallet กำหนด
+
+2. การลงทะเบียนบัตร YouTrip กับบริการ Digital Wallet
+
+2.1 ผู้ใช้บริการจะต้องเป็นเจ้าของบัตร YouTrip ที่จะนำข้อมูลในบัตร YouTrip มาลงทะเบียนผูกบัตร YouTrip กับบริการ Digital Wallet เท่านั้น
+
+2.2 ผู้ใช้บริการจะต้องมี Smart Device ที่รองรับการให้บริการ Digital Wallet และจะต้องทำการติดตั้ง/ลงทะเบียนแอปพลิเคชันบริการ Digital Wallet บน Smart Device ตามรายละเอียดขั้นตอนวิธีการติดตั้ง/ลงทะเบียนบริการ Digital Wallet ตามวิธีการที่ผู้ให้บริการ Digital Wallet กำหนด
+
+2.3 การเพิ่มข้อมูล/ผูกบัตร YouTrip
+1) กรณีทำบนแอปพลิเคชันบริการ Digital Wallet
+          ผู้ใช้บริการต้องทำการเพิ่มข้อมูล/ผูกบัตร YouTrip บนแอปพลิเคชันบริการ Digital Wallet ตามขั้นตอนและวิธีการที่ผู้ให้บริการ Digital Wallet กำหนด ทั้งนี้ ผู้ใช้บริการจะต้องทำการพิสูจน์และยืนยันตัวตนในการผูกบัตรให้สำเร็จ โดยใช้รหัส OTP (One Time Password) ที่ได้รับจาก YouTrip ทางหมายเลขโทรศัพท์เคลื่อนที่ หรืออีเมลที่ผู้ใช้บริการได้แจ้งไว้กับบริการ YouTrip หรือด้วยวิธีการอื่นใดตามที่ธนาคารกำหนด
+2) กรณีทำผ่านแอปพลิเคชัน YouTrip 
+          ผู้ใช้บริการต้องทำการเชื่อมต่อไปยังแอปพลิเคชันบริการ Digital Wallet เพื่อเพิ่มข้อมูล/ผูกบัตร YouTrip บนแอปพลิเคชันบริการ Digital Wallet ตามขั้นตอนและวิธีการที่ผู้ให้บริการ Digital Wallet กำหนด ทั้งนี้ ผู้ใช้บริการจะต้องทำการพิสูจน์และยืนยันตัวตนในการผูกบัตรให้สำเร็จ โดยใช้รหัส OTP (One Time Password) ที่ได้รับจาก YouTrip ทางหมายเลขโทรศัพท์เคลื่อนที่ หรืออีเมลที่ผู้ใช้บริการได้แจ้งไว้กับบริการ YouTrip หรือด้วยวิธีการอื่นใดตามที่ธนาคารกำหนด
+      ผู้ใช้บริการตกลงและยืนยันว่าข้อมูลบัตร YouTrip ที่ได้ทำการผูกบัตร และ/หรือข้อมูลที่ทำการลงทะเบียนเข้าใช้บริการ Digital Wallet เป็นข้อมูลที่ถูกต้องแท้จริงและตรงกับข้อมูลที่ให้ไว้กับธนาคารในการใช้บริการบัตร YouTrip
+
+2.4 ผู้ใช้บริการต้องเก็บรักษารหัสประจำตัวใดๆ ที่เกี่ยวข้องกับการใช้บัตร YouTrip ผ่านบริการ Digital Wallet เช่น เลขที่บัตร YouTrip ชื่อผู้ใช้งาน (Username) และรหัสผ่าน (Password หรือ PIN) ของ Smart Device และบริการ Digital Wallet ไว้เป็นความลับและไม่เปิดเผย หรือกระทำการใดๆ ที่อาจทำให้ผู้อื่นล่วงรู้ และ/หรือเข้าถึงการใช้งานบริการ Digital Wallet และ/หรือ Smart Device และ/หรือใช้บัตร YouTrip ของผู้ใช้บริการ
+
+2.5 กรณีธนาคารออกบัตร YouTrip ใบใหม่ ให้กับผู้ใช้บริการ และ/หรือมีการเปลี่ยนแปลงเลขที่บัตร YouTrip หากผู้ใช้บริการประสงค์จะใช้บัตร YouTrip ใบใหม่ผ่านบริการ Digital Wallet ผู้ใช้บริการจะต้องดำเนินการเพิ่มข้อมูล/ผูกบัตร YouTrip ใบใหม่ รวมถึงการพิสูจน์และยืนยันตัวตนตามขั้นตอนและวิธีการที่ผู้ให้บริการ Digital Wallet กำหนด โดยตกลงให้บัตร YouTrip ใบใหม่อยู่ในนิยามของคำว่าบัตร YouTrip ตามข้อกำหนดนี้ด้วย
+
+3. การใช้งานบัตรเสมือนจริงเพื่อชำระค่าสินค้า/บริการผ่านบริการ Digital Wallet
+
+3.1 ผู้ใช้บริการจะสามารถใช้บัตร YouTrip ที่ทำการเพิ่มข้อมูล/ผูกบัตรบนแอปพลิเคชันบริการ Digital Wallet 
+(“บัตรเสมือนจริง”) เพื่อชำระค่าสินค้า/บริการผ่านบริการ Digital Wallet ได้ที่ร้านค้า ด้วยการนำ Smart Device ที่มีข้อมูลบัตร YouTrip มาแตะที่เครื่องอ่านบัตรแบบไร้สัมผัส (Contactless Payment Reader) หรือด้วยวิธีการอื่นใดตามที่ผู้ให้บริการ Digital Wallet กำหนด
+      ทั้งนี้ ผู้ใช้บริการตกลงและยอมรับว่าการทำรายการใช้บัตรเสมือนจริงผ่านบริการ Digital Wallet โดยใช้ข้อมูล รหัสประจำตัว และ/หรือ Smart Device ของผู้ใช้บริการ ไม่ว่าจะกระทำโดยผู้ใช้บริการเอง หรือเป็นการกระทำของบุคคลอื่นใด หากได้กระทำโดยใช้ รหัสประจำตัว และ/หรือ Smart Device ของผู้ใช้บริการแล้ว ผู้ใช้บริการตกลงให้ถือว่าถูกต้องสมบูรณ์ และให้มีผลผูกพันเสมือนหนึ่งได้กระทำโดยผู้ใช้บริการเองทุกประการ โดยผู้ใช้บริการไม่จำเป็นต้องลงนามในเอกสารข้อตกลงเพิ่มเติมใดๆ และผู้ใช้บริการต้องรับผิดชอบชำระเงินตามรายการใช้บัตร YouTrip ดังกล่าว
+
+3.2 รายการที่ใช้บัตรเสมือนจริงชำระค่าสินค้า/บริการผ่านบริการ Digital Wallet ถือเสมือนเป็นการใช้บัตร YouTrip ผ่านช่องทางอื่น และจะถูกหักเงินจาก YouTrip Wallet โดยผู้ใช้บริการยินยอมผูกพันการใช้บัตรเสมือนจริงตามข้อกำหนดและเงื่อนไขการใช้บริการ YouTrip ที่ผู้ใช้บริการตกลงไว้กับธนาคาร ทุกประการ
+
+3.3 ผู้ใช้บริการตกลงและรับทราบว่าสิทธิประโยชน์ที่ผู้ใช้บริการจะได้รับจากการใข้งานบัตรเสมือนจริงผ่านบริการ Digital Wallet เพื่อชำระค่าสินค้า/บริการ อาจแตกต่างกับสิทธิประโยชน์จากการใช้บัตร YouTrip ผ่านช่องทางอื่นๆ
+
+3.4 ผู้ใช้บริการตกลงและรับทราบว่า ในกรณีที่รหัสประจำตัวใดๆ ที่ผู้ให้บริการ Digital Wallet กำหนดขึ้น เพื่อใช้ในการยืนยันตัวตนก่อนการชำระเงินค่าสินค้า และ/หรือบริการด้วยบัตร YouTrip ผ่านบริการ Digital Wallet ถูกระงับการใช้งานชั่วคราว หรือถาวร อันเนื่องมาจากการพยายามเข้าใช้งานอย่างไม่ถูกต้อง หรือการระบุรหัสประจำตัวไม่ถูกต้อง หรือเหตุอื่นใดอันทำให้รหัสประจำตัวถูกระงับ จะส่งผลให้ผู้ใช้บริการไม่สามารถใช้บัตรเสมือนจริงผ่านบริการ Digital Wallet ได้ ผู้ใช้บริการตกลงที่จะไม่ยกเหตุขัดข้องข้างต้นนี้ขึ้นกล่าวอ้างเพื่อเรียกร้องค่าเสียหายใดๆ ที่อาจเกิดขึ้นจากการระงับการทำธุรกรรมดังกล่าวกับธนาคารและ/หรือบริษัท ยู เทคโนโลยี กรุ๊ป (ประเทศไทย) จำกัด ทั้งสิ้น
+
+3.5 ในกรณีที่ระบบคอมพิวเตอร์ Smart Device กระบวนการรับ-ส่งข้อมูล ระบบอินเทอร์เน็ต หรือระบบอื่นใดที่เกี่ยวข้องกับการใช้บัตร YouTrip ผ่านบริการ Digital Wallet ชำรุดขัดข้อง หรือได้รับความเสียหาย หรืออยู่ระหว่างการซ่อมแซม หรือปิดระบบชั่วคราวเพื่อบำรุงรักษา หรือมีเหตุสุดวิสัยอื่นใด ซึ่งทำให้ผู้ใช้บริการไม่สามารถใช้บัตรเสมือนจริงชำระเงินค่าสินค้า และ/หรือบริการแทนเงินสด ผ่านบริการ Digital Wallet ได้ ผู้ใช้บริการตกลงและยอมรับว่าจะไม่ยกเอาเหตุขัดข้องดังกล่าวมาเป็นข้อเรียกร้องให้ธนาคารรับผิดชอบแต่ประการใด
+
+4. การยกเลิกและการระงับบัตรเสมือนจริงที่ผูกไว้กับบริการ Digital Wallet
+
+4.1 ผู้ใช้บริการตกลงและรับทราบว่า ในกรณีที่ผู้ใช้บริการประสงค์จะยกเลิกการผูกบัตร YouTrip/ลบข้อมูลบัตร YouTrip ออกจากบริการ Digital Wallet หรือผู้ใช้บริการไม่ได้ใช้ Smart Device ที่ลงทะเบียนบัตรเสมือนจริงไว้แล้ว ผู้ใช้บริการมีหน้าที่ในการลบข้อมูลบัตร YouTrip ออกจาก Smart Device โดยผู้ใช้บริการจะต้องดำเนินการผ่านแอปพลิเคชันบริการ Digital Wallet ตามขั้นตอนและวิธีการที่ผู้ให้บริการ Digital Wallet กำหนดไว้เท่านั้น
+
+4.2 ผู้ใช้บริการตกลงยินยอมให้ธนาคารมีสิทธิระงับ และ/หรือยกเลิกการผูกบัตร YouTrip / การใช้งานบัตรเสมือนจริง เมื่อใดก็ได้ ไม่ว่าทั้งหมดหรือบางส่วน หรือเฉพาะแต่ผู้ใช้บริการรายใดรายหนึ่ง โดยธนาคารจะแจ้งให้ผู้ใช้บริการทราบล่วงหน้า เว้นแต่ในกรณีดังต่อไปนี้ ผู้ใช้บริการตกลงว่าธนาคารมีสิทธิระงับ และ/หรือยกเลิกการผูกบัตร YouTrip / การใช้งานบัตรเสมือนจริง ไม่ว่าทั้งหมดหรือบางส่วนได้ทันทีตามที่ธนาคารเห็นสมควร โดยไม่ต้องแจ้งให้ผู้ใช้บริการทราบล่วงหน้า และธนาคารไม่ต้องรับผิดชอบในความเสียหายใดๆ ที่เกิดจากการดำเนินการดังกล่าว
+4.2.1	ข้อมูล รายละเอียด คำรับรองหรือคำยืนยันใดๆ ที่ผู้ใช้บริการให้ไว้ ไม่เป็นความจริง ไม่ถูกต้อง หรืออาจก่อให้เกิดความเข้าใจผิดในสาระสำคัญ
+4.2.2	บัตร YouTrip หมดอายุและไม่มีการต่ออายุ/ออกบัตรใหม่เพื่อทดแทน
+4.2.3	ธนาคารเชื่อได้ว่า ข้อมูล และ/หรือรายละเอียดต่างๆ ที่ผู้ใช้บริการแจ้งแก่ธนาคารให้ดำเนินการต่างๆ หรือการผูกบัตร YouTrip / การใช้งานบัตรเสมือนจริง อาจก่อให้เกิดผลกระทบในทางที่ไม่เป็นคุณเกิดขึ้น หรืออาจกระทบต่อสิทธิของธนาคารหรือบุคคลอื่น อาจขัดต่อความสงบเรียบร้อยหรือศีลธรรมอันดีของประชาชน หรืออาจทำให้ธนาคารปฏิบัติผิดกฎหมายและกฎเกณฑ์ที่เกี่ยวข้อง
+4.2.4	ธนาคารเชื่อได้ว่า รหัสประจำตัวของผู้ใช้บริการถูกเปิดเผยแก่ผู้อื่น หรือผู้อื่นได้ล่วงรู้ หรือสามารถเข้าถึง หรือสามารถใช้งานได้
+4.2.5	ธนาคารเชื่อได้ว่าการผูกบัตร YouTrip / การใช้งานบัตรเสมือนจริง ของผู้ใช้บริการอาจมีลักษณะไม่ปกติตามวัตถุประสงค์ของการให้บริการของธนาคาร
+4.2.6	ผู้ใช้บริการเป็นบุคคลที่ถูกกำหนด (UN/Thailand Sanction List)
+4.2.7	ผู้ใช้บริการปลอมแปลงข้อมูลเอกสาร และ/หรือสวมรอยเป็นบุคคลใด ไม่ว่าบุคคลนั้นจะยินยอมหรือไม่ในการผูกบัตร YouTrip / การใช้งานบัตรเสมือนจริง ไม่ว่าผู้ใช้บริการจะมีเจตนาทุจริตหรือไม่ก็ตาม
+4.2.8	Smart Device ถูกดัดแปลงแก้ไข หรือเนื่องมาจากระบบเครือข่ายโทรศัพท์เคลื่อนที่ และ/หรือเหตุอื่นใด และมีความเสี่ยงที่จะเกิดความเสียหายกับผู้ใช้บริการ และ/หรืออาจก่อให้เกิดความเสียหายต่อการผูกบัตร YouTrip / การใช้งานบัตรเสมือนจริง
+4.2.9	ผู้ใช้บริการปฏิบัติผิดข้อกำหนดนี้ หรือข้อกำหนดและเงื่อนไขการใช้บริการ YouTrip ไม่ว่าข้อหนึ่งข้อใด
+4.2.10	ธนาคารไม่สามารถหักเงินใน YouTrip Wallet ของผู้ใช้บริการ เพื่อคืนเงิน/ชดใช้/ชำระหนี้ ค่าธรรมเนียม ค่าใช้จ่ายต่างๆ ให้แก่ธนาคาร และ/หรือเพื่อให้ธนาคารให้บริการตามคำสั่งของผู้ใช้บริการได้
+4.2.11	เมื่อผู้ใช้บริการเสียชีวิต
+4.2.12	ธนาคารต้องปฏิบัติตามกฎหมายและกฎเกณฑ์ที่เกี่ยวข้อง
+4.2.13	ผู้ใช้บริการแจ้งยกเลิก/เปลี่ยนแปลงหมายเลขโทรศัพท์เคลื่อนที่ที่นำมาลงทะเบียนสมัครใช้บริการ YouTrip
+
+4.3 การยกเลิกการใช้บัตร YouTrip ไม่ว่าด้วยเหตุใดๆ ถือเป็นยกเลิกบัตรเสมือนจริงตามข้อกำหนดนี้ทุกประการ
+
+5. การคุ้มครองข้อมูลส่วนบุคคล
+
+ผู้ใช้บริการตกลงยินยอมให้ธนาคารเก็บรวบรวมและใช้ข้อมูลส่วนบุคคล และ/หรือข้อมูลใดๆ ของผู้ใช้บริการ โดยมีวัตถุประสงค์ที่จำเป็นเพื่อการให้บริการแก่ผู้ใช้บริการ การดำเนินการตามคำขอของผู้ใช้บริการก่อนให้บริการ การมอบหมายงานให้ผู้อื่นดำเนินการแทนธนาคารเพื่อสนับสนุนการให้บริการ เช่น งานเทคโนโลยีสารสนเทศ งานติดต่อสื่อสาร งานติดตามทวงถาม  เป็นต้น การโอนสิทธิและ/หรือหน้าที่ และ/หรือการจัดการข้อร้องเรียน นอกจากนี้ ผู้ใช้บริการตกลงยินยอมให้ธนาคารเปิดเผยข้อมูลดังกล่าวได้ทั้งในและต่างประเทศให้แก่ ผู้ให้บริการภายนอก ตัวแทนของธนาคาร ผู้รับจ้างช่วงงานต่อ พันธมิตรทางธุรกิจที่ออกผลิตภัณฑ์ร่วมกันในลักษณะ co-brand ผู้สนใจจะเข้ารับโอนสิทธิ/หน้าที่ ผู้รับโอนสิทธิ/หน้าที่ และ/หรือผู้ให้บริการ Could Computing และยินยอมให้ผู้รับข้อมูลจากธนาคารดังกล่าว เก็บรวบรวม ใช้ และ/หรือเปิดเผยข้อมูลดังกล่าวต่อไปได้ภายใต้วัตถุประสงค์ดังกล่าว ทั้งนี้ รายละเอียดอื่นๆ และสิทธิ ปรากฏในนโยบายการคุ้มครองข้อมูลส่วนบุคคลในเว็บไซต์ของธนาคาร 
+www.kasikornbank.com/th/privacy-policy  
+ในกรณีที่ผู้ใช้บริการมีการให้ข้อมูลส่วนบุคคลของบุคคลอื่นใดแก่ธนาคารเพื่อดำเนินการใดๆ ที่เกี่ยวข้องกับวัตถุประสงค์ข้างต้น ผู้ใช้บริการขอรับรองว่าได้รับความยินยอมจากบุคคลอื่นดังกล่าว หรือได้อาศัยหลักเกณฑ์อื่นทางกฎหมายในการให้ข้อมูลส่วนบุคคลของบุคคลอื่นดังกล่าวแก่ธนาคาร และได้แจ้งให้บุคคลอื่นดังกล่าวทราบถึงรายละเอียดการเก็บรวบรวม ใช้ และ/หรือเปิดเผยข้อมูลส่วนบุคคลตามนโยบายการคุ้มครองข้อมูลส่วนบุคคลข้างต้นแล้ว
+
+6. การเปลี่ยนแปลงหรือเพิ่มเติมข้อกำหนด
+
+6.1 หากเป็นการเปลี่ยนแปลงเงื่อนไขที่ส่งผลให้ผู้ใช้บริการเกิดภาระหรือความเสี่ยงที่เพิ่มขึ้น การเปลี่ยนแปลงดังกล่าวจะมีผลเมื่อผู้ใช้บริการให้ความยินยอม
+6.2 หากเป็นการเปลี่ยนแปลงเงื่อนไขอื่น ผู้ใช้บริการตกลงยินยอมให้ธนาคารมีสิทธิเปลี่ยนแปลงได้ตามที่ธนาคารเห็นสมควร โดยหากเป็นการเปลี่ยนแปลงที่มีผลกระทบต่อการใช้บริการของผู้ใช้บริการ ธนาคารจะสื่อสารหรือแจ้งข้อมูลอันเป็นสาระสำคัญของการเปลี่ยนแปลงที่ชัดเจนให้ผู้ใช้บริการทราบล่วงหน้าไม่น้อยกว่า 30 วัน หรือระยะเวลาอื่นตามที่กฎหมายกำหนด
+6.3 หากมีกฎหมายและ/หรือกฎเกณฑ์กำหนดให้ธนาคารต้องดำเนินการเกี่ยวกับการเปลี่ยนแปลงเงื่อนไขไว้เป็นการเฉพาะเป็นอย่างอื่น ผู้ใช้บริการตกลงยินยอมให้ธนาคารปฏิบัติตามกฎหมายและ/หรือกฎเกณฑ์ดังกล่าวได้
+
+
+Terms and Conditions for Linking and Using YouTrip Card through Digital Wallet Service
+
+The YouTrip User (the "User") of KASIKORNBANK PUBLIC COMPANY LIMITED (the "Bank") agrees to link and use the YouTrip Card through the digital wallet service of an external digital wallet service provider. The User agrees to be bound by and comply with the following terms and conditions for linking and using YouTrip Card through the digital wallet service (this "Terms and Conditions"), and agrees that this Terms and Conditions shall be deemed an integral part of the Terms and Conditions for Using YouTrip Service that the User has agreed with the Bank.
+
+1. Digital Wallet Service is the Service of the Digital Wallet Service Provider
+
+1.1 The User understands and acknowledges that the digital wallet service (the "Digital Wallet Service") is operated by an external digital wallet service provider (the "Digital Wallet Service Provider") to facilitate the User’s use of YouTrip Card to pay for goods and/or services in lieu of cash by making transactions through the Digital Wallet Service on a mobile phone or any other device as determined by the Digital Wallet Service Provider (the "Smart Device").
+1.2 The User acknowledges and agrees that the Bank has no involvement in providing the Digital Wallet Service or the Merchant (as defined below). In case the User has any problems or questions about the Digital Wallet Service, the User can contact the Digital Wallet Service Provider and/or the Merchant (as the case may be). In case the User has any problems or questions about the YouTrip Card, the User can contact You Technologies Group (Thailand) Co., Ltd., which is the YouTrip application service provider and issues the YouTrip Card in collaboration with the Bank, via the YouTrip Contact Center.
+
+   The Merchant means stores that accept payment for goods/services with the YouTrip Card through the Digital Wallet Service as determined by the Digital Wallet Service Provider.
+
+2. Registration of the YouTrip Card with Digital Wallet Service
+
+2.1 The User must be the owner of the YouTrip Card that the information contained therein will be linked with the Digital Wallet Service for registration.
+2.2 The User must have a Smart Device that is compatible with the Digital Wallet Service and shall install/register the Digital Wallet Service application on the Smart Device in accordance with the details of the installation/registration procedures for the Digital Wallet Service as determined by the Digital Wallet Service Provider.
+2.3 Adding Information/Linking YouTrip Card
+ 1) 	In case using the Digital Wallet Service application 
+     The User shall add information/link the YouTrip Card on the Digital Wallet Service application in accordance with the steps and procedures as determined by the Digital Wallet Service Provider. The User shall successfully verify and authenticate their identity by using the OTP (One-Time Password) received from YouTrip via the mobile phone number or email that the User has registered with YouTrip service, or by any other method as determined by the Bank.
+2)  	Via the YouTrip application
+     	The User shall connect to the Digital Wallet Service application to add information/link the YouTrip Card on the Digital Wallet Service application in accordance with the steps and procedures as determined by the Digital Wallet Service Provider. The User shall successfully verify and authenticate their identity by using the OTP (One-Time Password) received from YouTrip via the mobile phone number or email that the User has registered with YouTrip service, or by any other method as determined by the Bank.
+  The User agrees and confirms that the information used for linking the YouTrip Card and/or for registering the Digital Wallet Service is accurate, true, and consistent with the information provided to the Bank for the use of the YouTrip Card.
+2.4 The User shall keep confidential any personal identification code related to the use of the YouTrip Card through the Digital Wallet Service, such as the YouTrip Card number, Username, and Password or PIN of Smart Device and Digital Wallet Service, and shall not disclose it or take any action that may allow others to know and/or access the use of the Digital Wallet Service and/or Smart Device and/or use the User’s YouTrip Card.
+2.5 In case the Bank issues a new YouTrip Card to the User and/or there is a change in the YouTrip Card number, if the User wishes to use the new YouTrip Card through the Digital Wallet Service, the User shall add information/link the new YouTrip Card, including verifying and authenticating their identity in accordance with the steps and procedures as determined by the Digital Wallet Service Provider. The User agrees that the new YouTrip Card shall also be considered the YouTrip Card per the definition under this Terms and Conditions.
+
+3. Use of the Virtual Card to Pay for Goods/Services through the Digital Wallet Service
+
+3.1 The User may use the YouTrip Card, which has been added/linked to the Digital Wallet Service application (the “Virtual Card”) to pay for goods/services through the Digital Wallet Service with the Merchant by tapping the Smart Device containing the YouTrip Card information on a contactless payment reader or by any other method as determined by the Digital Wallet Service Provider.
+   The User agrees and accepts that any transaction made by using the Virtual Card via the Digital Wallet Service, utilizing the User’s personal identification code and/or Smart Device, whether by the User themself or by any other person, shall be deemed correct and valid, and to be binding as if it were made by the User themself in all respects. The User shall not be required to sign any additional document/agreement, and the User shall be responsible for settling payments for such YouTrip Card transaction.
+   
+3.2 Transactions made using the Virtual Card to pay for goods/services through the Digital Wallet Service are considered to be the same as those using the YouTrip Card via another channel and will be charged to the YouTrip Wallet. The User agrees to be bound by the use of the Virtual Card in accordance with the Terms and Conditions for Using YouTrip Service that the User has agreed with the Bank in all respects.
+
+3.3 The User agrees and acknowledges that the benefits that the User will receive from using the Virtual Card through the Digital Wallet Service to pay for goods/services may differ from the benefits from the use of the YouTrip Card via other channels.
+
+3.4 The User agrees and acknowledges that in the event that any personal identification code set by the Digital Wallet Service Provider for identity verification before payment for goods and/or services with the YouTrip Card through the Digital Wallet Service is temporarily or permanently suspended due to incorrect login attempts, incorrect personal identification code entry, or any other reason which causes the personal identification code to be suspended, the User will not be able to use the Virtual Card through the Digital Wallet Service. The User agrees to not cite the aforementioned reasons as grounds for claiming any damages that may arise from the suspension of such transactions with the Bank and/or You Technologies Group (Thailand) Co., Ltd.
+3.5 In the event that the computer system, the Smart Device, data transmission process, the internet system, or any other system related to the use of the YouTrip Card via the Digital Wallet Service is disrupted or damaged or under repair or temporarily closed for maintenance, or affected by any other force majeure event, which prevents the User from using the Virtual Card to make payment for goods and/or services in lieu of cash through the Digital Wallet Service, the User agrees and acknowledges that they shall in no way hold the Bank responsible for any such disruptions.
+
+4. Cancellation and Suspension of the Virtual Card Linked to the Digital Wallet Service
+
+4.1 The User agrees and acknowledges that in the event that the User wishes to cancel the linking of the YouTrip Card/remove the YouTrip Card information from the Digital Wallet Service, or if the User no longer uses the Smart Device in which the Virtual Card was registered, the User is 
