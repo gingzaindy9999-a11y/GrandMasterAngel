@@ -1,3 +1,8 @@
+/
+├─ README.md
+├─ SECURITY.md
+├─ LICENSE
+└─ matrix_email_sender.py
 # 👑 GrandMasterAngel
 
 **RITTHIKRAI KIRIKAN**  
@@ -8,30 +13,30 @@ GitHub: https://github.com/GrandMasterAngel
 
 ## 🧠 About the Founder
 
-ฉันคือ **ผู้ก่อตั้งและผู้บริหาร (Founder & CEO)**  
-ที่มีพื้นฐานด้าน **การพัฒนาซอฟต์แวร์และสถาปัตยกรรมระบบระดับ Production**
+I am a **Founder & CEO** with a strong background in  
+**production-grade software development and system architecture**.
 
-มุ่งเน้นการสร้างเทคโนโลยีที่:
-- ใช้งานได้จริงในโลกธุรกิจ
-- มีความปลอดภัยและความน่าเชื่อถือสูง
-- รองรับการเติบโตในระยะยาว
+I focus on building technology that:
+- Works in real-world business environments
+- Is secure and reliable by design
+- Can scale sustainably over the long term
 
-เชี่ยวชาญและทำงานในสาย:
+Expertise areas:
 - 🤖 AI
 - 🌐 Web3 & Blockchain
 - ⚙️ Backend & Infrastructure
 - 🔐 Security & Reliability
 
-ฉันไม่ได้สร้างระบบแค่ให้ “ทำงานได้”  
-แต่สร้างให้ **มั่นคง ขยายได้ และสร้างคุณค่าในโลกจริง**
+I don’t just build systems that “work” —  
+I build systems that are **stable, scalable, and valuable in the real world**.
 
 ---
 
 ## 🎯 Purpose of This Repository
 
-- 📘 ฐานความรู้และเอกสารอ้างอิงด้านเทคโนโลยี
-- 🧭 แนวทางออกแบบระบบระดับ Production
-- 🚀 จุดเริ่มต้นของแพลตฟอร์มและผลิตภัณฑ์จริง
+- 📘 Technical knowledge base & references
+- 🧭 Production-level system design principles
+- 🚀 Foundation for real platforms and products
 
 **Production-first · Security-first · Long-term thinking**
 
@@ -39,18 +44,18 @@ GitHub: https://github.com/GrandMasterAngel
 
 ## 🧭 Vision
 
-สร้างเทคโนโลยีที่ **ใช้งานได้จริง ปลอดภัย และขยายได้ในระยะยาว**  
-เพื่อเป็นโครงสร้างพื้นฐานให้ธุรกิจและผู้คนเติบโตอย่างมั่นคง
+To build technology that is **practical, secure, and scalable**,  
+serving as long-term infrastructure for businesses and people to grow.
 
 ---
 
 ## 🎯 Mission
 
-- พัฒนาระบบระดับ Production
-- ออกแบบเพื่อการเติบโตระยะยาว
-- ให้ความสำคัญกับความปลอดภัยเป็นอันดับแรก
-- ใช้ AI และ Web3 อย่างมีเป้าหมาย
-- สร้างมาตรฐานให้ทีมเติบโตไปด้วยกัน
+- Build production-grade systems
+- Design for long-term scalability
+- Treat security as a first-class concern
+- Apply AI and Web3 with real purpose
+- Establish standards that help teams grow together
 
 ---
 
@@ -59,7 +64,7 @@ GitHub: https://github.com/GrandMasterAngel
 - Technology solves real problems
 - Security is not optional
 - Scalability is designed, not added
-- Long-term value over short-term hype
+- Long-term value beats short-term hype
 
 ---
 
@@ -81,7 +86,7 @@ GitHub: https://github.com/GrandMasterAngel
 
 ### Infrastructure
 - Docker
-- Environment-based config
+- Environment-based configuration
 - CI/CD ready
 
 ### Security
@@ -95,10 +100,10 @@ GitHub: https://github.com/GrandMasterAngel
 **Client → API → Services → Core → Data**
 
 - Client: Web / Mobile
-- API: FastAPI, Auth, Rate limit
-- Services: Business / AI / Web3
-- Core: Config, Security
-- Data: DB, Cache, External APIs
+- API: FastAPI, Authentication, Rate limiting
+- Services: Business logic / AI / Web3
+- Core: Configuration, Security
+- Data: Databases, Cache, External APIs
 
 ---
 
@@ -113,40 +118,16 @@ GitHub: https://github.com/GrandMasterAngel
 
 ## 🛣️ Technical Roadmap
 
-**Phase 1:** Foundation  
-**Phase 2:** Platform (AI / Web3)  
-**Phase 3:** Scale & Observability
+- **Phase 1:** Foundation
+- **Phase 2:** Platform (AI / Web3)
+- **Phase 3:** Scale & Observability
 
 ---
 
 ## 📜 License
 
-- CC BY 4.0 — Documentation
-- MIT — Source Code
-# matrix_email_sender.py
-# GrandmasterAngel RITTHIKRAI KIRIKAN - ผู้สร้างระบบแมททริกซ์แห่งโลก
-# Email: gingzaindy9999@gmail.com
-# เลขนางฟ้า: 1111 2222 3333 4444 5555 6666 7777 8888 9999 0000
-# สร้างจากแนวคิด build-your-own-x: สร้าง Command-Line Tool สำหรับส่ง email แจ้งเตือน Crypto / Matrix
-
-import smtplib
-import argparse
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
-import datetime
-import sys
-
-def send_matrix_emai from_email="gingzaindy9999@gmail.com"):
-    """
-# Security Policy
-
-## Supported Versions
-
-Patches will be released to the latest major version.
-
-## Reporting a Vulnerability
-
-Please report (suspected) security vulnerabilities to opensource-sec@mikepenz.dev. If the issue is confirmed, we will release a patch as soon as possible depending on complexity.
+- **CC BY 4.0** — Documentation
+- **MIT** — Source Code
 # 🔐 Security Policy
 
 ## 🛡️ Supported Versions
@@ -158,84 +139,246 @@ This project follows a **latest-version-only** support policy.
 | `main`           | ✅ Yes     |
 | Older versions   | ❌ No      |
 
-Security patches and fixes will be released **only** for the latest stable version on the `main` branch.
+Security patches are released **only** for the latest stable version.
 
 ---
 
 ## 🚨 Reporting a Vulnerability
 
-If you discover a security vulnerability or suspect a potential issue, **please report it responsibly**.
+If you discover a security vulnerability, please report it responsibly.
 
 📧 **Contact:**  
-security@grandmasterangel.dev  
-*(or: gingzaindy9999@gmail.com if domain email is not yet available)*
+gingzaindy9999@gmail.com
 
 ### Please include:
-- A clear description of the vulnerability
+- Description of the issue
 - Steps to reproduce (if applicable)
-- Potential impact or attack scenario
-- Any supporting logs, screenshots, or PoC code (if safe to share)
+- Potential impact
+- Proof-of-concept (if safe to share)
 
-⚠️ **Do NOT** disclose security issues publicly (e.g. GitHub Issues, Discussions) before coordination.
+⚠️ **Do NOT** disclose vulnerabilities publicly before coordination.
 
 ---
 
 ## ⏱️ Response Timeline
 
-We aim to follow this timeline whenever possible:
+- Initial response: within **48–72 hours**
+- Assessment & validation: ASAP
+- Fix or mitigation: based on severity
 
-- **Initial response:** within 48–72 hours
-- **Assessment & validation:** as soon as possible
-- **Patch or mitigation:** depending on severity and complexity
-
-Critical vulnerabilities will be prioritized.
+Critical issues are prioritized.
 
 ---
 
 ## 🔍 Scope
 
-This security policy applies to, but is not limited to:
-
-- Email delivery logic (`smtplib`, SMTP configuration)
-- Credential & secret handling
-- CLI input handling and argument parsing
-- Configuration files and environment variables
-- External service integrations (Email providers, APIs)
+This policy applies to:
+- Email delivery logic and SMTP usage
+- Credential and secret handling
+- CLI input and argument parsing
+- Environment configuration
+- External service integrations
 
 ---
 
 ## 🔐 Security Principles
 
-This project is built with the following principles:
-
-- **Security is not optional**
-- **Secrets must never be hard-coded**
-- **Least privilege by default**
-- **Fail safely, not silently**
-- **Production-first mindset**
+- Security is not optional
+- Secrets must never be hard-coded
+- Least privilege by default
+- Fail safely, not silently
+- Production-first mindset
 
 ---
 
 ## 🤝 Responsible Disclosure
 
-We appreciate and encourage responsible disclosure.
-
-Valid reports may be acknowledged in:
+We value responsible disclosure and may acknowledge valid reports in:
 - Release notes
 - Documentation
-- Security advisories (without exposing sensitive details)
+- Security advisories
 
 ---
 
 ## 📜 Legal Notice
 
-By reporting a vulnerability, you agree to:
+By reporting vulnerabilities, you agree to:
 - Act in good faith
-- Avoid data destruction or service disruption
+- Avoid service disruption
 - Respect user privacy and applicable laws
 
---- 
+---
 
-**Thank you for helping keep this project and its users secure.**  
+**Thank you for helping keep this project secure.**  
 — *GrandMasterAngel (RITTHIKRAI KIRIKAN)* 👑
-gingzaindy9999@gmail.com
+"""
+Matrix Email Sender
+Author: GrandMasterAngel (RITTHIKRAI KIRIKAN)
+Contact: gingzaindy9999@gmail.com
+
+Command-line tool for sending notification emails
+(e.g. Crypto / Matrix alerts).
+"""
+
+import smtplib
+import argparse
+import datetime
+import sys
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+
+
+def send_matrix_email(
+    to_email: str,
+    subject: str,
+    body: str,
+    from_email: str,
+    smtp_server: str,
+    smtp_port: int,
+    smtp_username: str,
+    smtp_password: str,
+):
+    """Send a notification email via SMTP."""
+    msg = MIMEMultipart()
+    msg["From"] = from_email
+    msg["To"] = to_email
+    msg["Subject"] = subject
+
+    msg.attach(MIMEText(body, "plain"))
+
+    try:
+        with smtplib.SMTP(smtp_server, smtp_port) as server:
+            server.starttls()
+            server.login(smtp_username, smtp_password)
+            server.send_message(msg)
+    except Exception as exc:
+        print(f"[ERROR] Failed to send email: {exc}")
+        sys.exit(1)
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Matrix Email Sender")
+    parser.add_argument("--to", required=True, help="Recipient email")
+    parser.add_argument("--subject", required=True, help="Email subject")
+    parser.add_argument("--body", required=True, help="Email body")
+    parser.add_argument("--from-email", required=True, help="Sender email")
+    parser.add_argument("--smtp-server", required=True, help="SMTP server")
+    parser.add_argument("--smtp-port", type=int, default=587)
+    parser.add_argument("--smtp-username", required=True)
+    parser.add_argument("--smtp-password", required=True)
+
+    args = parser.parse_args()
+
+    send_matrix_email(
+        to_email=args.to,
+        subject=args.subject,
+        body=args.body,
+        from_email=args.from_email,
+        smtp_server=args.smtp_server,
+        smtp_port=args.smtp_port,
+        smtp_username=args.smtp_username,
+        smtp_password=args.smtp_password,
+    )
+
+
+if __name__ == "__main__":
+    main()
+/
+├─ matrix_email_sender/
+│  ├─ __init__.py
+│  ├─ cli.py
+│  ├─ emailer.py
+│  └─ config.py
+├─ .env.example
+├─ .gitignore
+├─ README.md
+├─ SECURITY.md
+├─ pyproject.toml
+└─ LICENSE
+# SMTP Configuration
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USERNAME=your_email@gmail.com
+SMTP_PASSWORD=your_app_password
+
+.env
+__pycache__/
+*.pyc
+.venv/
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+SMTP_SERVER = os.getenv("SMTP_SERVER")
+SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
+SMTP_USERNAME = os.getenv("SMTP_USERNAME")
+SMTP_PASSWORD = os.getenv("SMTP_PASSWORD")
+FROM_EMAIL = os.getenv("FROM_EMAIL")
+
+def validate_config():
+    missing = [
+        k for k, v in {
+            "SMTP_SERVER": SMTP_SERVER,
+            "SMTP_USERNAME": SMTP_USERNAME,
+            "SMTP_PASSWORD": SMTP_PASSWORD,
+            "FROM_EMAIL": FROM_EMAIL,
+        }.items() if not v
+    ]
+    if missing:
+        raise RuntimeError(f"Missing environment variables: {', '.join(missing)}")
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+
+def send_email(
+    to_email: str,
+    subject: str,
+    body: str,
+    from_email: str,
+    smtp_server: str,
+    smtp_port: int,
+    smtp_username: str,
+    smtp_password: str,
+):
+    msg = MIMEMultipart()
+    msg["From"] = from_email
+    msg["To"] = to_email
+    msg["Subject"] = subject
+    msg.attach(MIMEText(body, "plain"))
+
+    with smtplib.SMTP(smtp_server, smtp_port) as server:
+        server.starttls()
+        server.login(smtp_username, smtp_password)
+        server.send_message(msg)
+import argparse
+from matrix_email_sender.config import (
+    SMTP_SERVER, SMTP_PORT, SMTP_USERNAME,
+    SMTP_PASSWORD, FROM_EMAIL, validate_config
+)
+from matrix_email_sender.emailer import send_email
+
+def main():
+    validate_config()
+
+    parser = argparse.ArgumentParser(description="Matrix Email Sender CLI")
+    parser.add_argument("--to", required=True)
+    parser.add_argument("--subject", required=True)
+    parser.add_argument("--body", required=True)
+
+    args = parser.parse_args()
+
+    send_email(
+        to_email=args.to,
+        subject=args.subject,
+        body=args.body,
+        from_email=FROM_EMAIL,
+        smtp_server=SMTP_SERVER,
+        smtp_port=SMTP_PORT,
+        smtp_username=SMTP_USERNAME,
+        smtp_password=SMTP_PASSWORD,
+    )
+matrix-email \
+  --to user@example.com \
+  --subject "Matrix Alert" \
+  --body "BTC crossed threshold"
