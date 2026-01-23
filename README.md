@@ -136,7 +136,7 @@ from email.mime.multipart import MIMEMultipart
 import datetime
 import sys
 
-def send_matrix_email(to_email, subject, body, from_email="gingzaindy9999@gmail.com"):
+def send_matrix_emai from_email="gingzaindy9999@gmail.com"):
     """
 # Security Policy
 
