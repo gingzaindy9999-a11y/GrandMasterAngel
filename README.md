@@ -147,3 +147,95 @@ Patches will be released to the latest major version.
 ## Reporting a Vulnerability
 
 Please report (suspected) security vulnerabilities to opensource-sec@mikepenz.dev. If the issue is confirmed, we will release a patch as soon as possible depending on complexity.
+# 🔐 Security Policy
+
+## 🛡️ Supported Versions
+
+This project follows a **latest-version-only** support policy.
+
+| Version / Branch | Supported |
+|------------------|-----------|
+| `main`           | ✅ Yes     |
+| Older versions   | ❌ No      |
+
+Security patches and fixes will be released **only** for the latest stable version on the `main` branch.
+
+---
+
+## 🚨 Reporting a Vulnerability
+
+If you discover a security vulnerability or suspect a potential issue, **please report it responsibly**.
+
+📧 **Contact:**  
+security@grandmasterangel.dev  
+*(or: gingzaindy9999@gmail.com if domain email is not yet available)*
+
+### Please include:
+- A clear description of the vulnerability
+- Steps to reproduce (if applicable)
+- Potential impact or attack scenario
+- Any supporting logs, screenshots, or PoC code (if safe to share)
+
+⚠️ **Do NOT** disclose security issues publicly (e.g. GitHub Issues, Discussions) before coordination.
+
+---
+
+## ⏱️ Response Timeline
+
+We aim to follow this timeline whenever possible:
+
+- **Initial response:** within 48–72 hours
+- **Assessment & validation:** as soon as possible
+- **Patch or mitigation:** depending on severity and complexity
+
+Critical vulnerabilities will be prioritized.
+
+---
+
+## 🔍 Scope
+
+This security policy applies to, but is not limited to:
+
+- Email delivery logic (`smtplib`, SMTP configuration)
+- Credential & secret handling
+- CLI input handling and argument parsing
+- Configuration files and environment variables
+- External service integrations (Email providers, APIs)
+
+---
+
+## 🔐 Security Principles
+
+This project is built with the following principles:
+
+- **Security is not optional**
+- **Secrets must never be hard-coded**
+- **Least privilege by default**
+- **Fail safely, not silently**
+- **Production-first mindset**
+
+---
+
+## 🤝 Responsible Disclosure
+
+We appreciate and encourage responsible disclosure.
+
+Valid reports may be acknowledged in:
+- Release notes
+- Documentation
+- Security advisories (without exposing sensitive details)
+
+---
+
+## 📜 Legal Notice
+
+By reporting a vulnerability, you agree to:
+- Act in good faith
+- Avoid data destruction or service disruption
+- Respect user privacy and applicable laws
+
+--- 
+
+**Thank you for helping keep this project and its users secure.**  
+— *GrandMasterAngel (RITTHIKRAI KIRIKAN)* 👑
+gingzaindy9999@gmail.com
