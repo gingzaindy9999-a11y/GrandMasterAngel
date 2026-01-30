@@ -1,4 +1,4 @@
-- # 👑 GrandMasterAngel
+.- # 👑 GrandMasterAngel
 **RITTHIKRAI KIRIKAN**  
 GitHub: https://github.com/GrandMasterAngel
 
