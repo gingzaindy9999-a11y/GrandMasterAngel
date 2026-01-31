@@ -1,0 +1,1 @@
+[![Create a PR to add an entry to the CHANGELOG.md file in this repo](https://github.com/github/docs/actions/workflows/create-changelog-pr.yml/badge.svg?event=workflow_run)](https://github.com/github/docs/actions/workflows/create-changelog-pr.yml)
